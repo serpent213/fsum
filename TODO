@@ -1,1 +1,4 @@
-- improve error handling
+- improve error handling (check "success" in JSON responses)
+- use config.yaml to locate services and keys (or not? optionally?)
+- tests
+  - invalid JSON
